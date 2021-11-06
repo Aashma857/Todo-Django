@@ -1,1 +1,207 @@
-[{"id":41,"image_url":"https://i.imgur.com/j8kwP2M.jpg","status_category":"nepali images"},{"id":40,"image_url":"https://i.imgur.com/rf2tkJc.jpg","status_category":"nepali images"},{"id":39,"image_url":"https://i.imgur.com/ibi741a.jpg","status_category":"nepali images"},{"id":38,"image_url":"https://i.imgur.com/Lq6uQpF.jpg","status_category":"nepali images"},{"id":37,"image_url":"https://i.imgur.com/EthT1QO.jpg","status_category":"nepali images"},{"id":36,"image_url":"https://i.imgur.com/F6zaoxC.jpg","status_category":"nepali images"},{"id":35,"image_url":"https://i.imgur.com/XoiMvC3.jpg","status_category":"nepali images"},{"id":34,"image_url":"https://i.imgur.com/YauGdok.jpg","status_category":"nepali images"},{"id":33,"image_url":"https://i.imgur.com/7CH01Wb.jpg","status_category":"nepali images"},{"id":32,"image_url":"https://i.imgur.com/3R6UISS.jpg","status_category":"nepali images"},{"id":31,"image_url":"https://i.imgur.com/XlXwE8m.jpg","status_category":"nepali images"},{"id":30,"image_url":"https://i.imgur.com/UW2fkNh.jpg","status_category":"nepali images"},{"id":29,"image_url":"https://i.imgur.com/PKvDj2K.jpg","status_category":"nepali images"},{"id":28,"image_url":"https://i.imgur.com/yQyKZ29.jpg","status_category":"nepali images"},{"id":27,"image_url":"https://i.imgur.com/HgY96LA.jpg","status_category":"nepali images"},{"id":26,"image_url":"https://i.imgur.com/PcSPQuP.jpg","status_category":"nepali images"},{"id":25,"image_url":"https://i.imgur.com/hjfyumP.jpg","status_category":"nepali images"},{"id":23,"image_url":"https://i.imgur.com/hpLZdeP.jpg","status_category":"nepali images"},{"id":22,"image_url":"https://i.imgur.com/oqgxqg3.jpg","status_category":"nepali images"},{"id":21,"image_url":"https://i.imgur.com/DCGF5A0.jpg","status_category":"nepali images"},{"id":20,"image_url":"https://i.imgur.com/74fi1X9.jpg","status_category":"nepali images"},{"id":19,"image_url":"https://i.imgur.com/wb7tgUN.jpg","status_category":"nepali images"},{"id":18,"image_url":"https://i.imgur.com/vhYm0M1.jpg","status_category":"nepali images"},{"id":17,"image_url":"https://i.imgur.com/CBSwzBo.jpg","status_category":"nepali images"},{"id":16,"image_url":"https://i.imgur.com/vY4hUrR.jpg","status_category":"nepali images"},{"id":15,"image_url":"https://i.imgur.com/g5rTyY7.jpg","status_category":"nepali images"},{"id":14,"image_url":"https://i.imgur.com/elgfPTS.jpg","status_category":"nepali images"},{"id":13,"image_url":"https://i.imgur.com/YC9FeyH.jpg","status_category":"nepali images"},{"id":12,"image_url":"https://i.imgur.com/i9GfSwl.jpg","status_category":"nepali images"},{"id":11,"image_url":"https://i.imgur.com/7gRw0yr.jpg","status_category":"nepali images"},{"id":10,"image_url":"https://i.imgur.com/v9vvWFI.jpg","status_category":"nepali images"},{"id":9,"image_url":"https://i.imgur.com/8VJ0xBc.jpg","status_category":"nepali images"},{"id":8,"image_url":"https://i.imgur.com/h26jiXU.jpg","status_category":"nepali images"},{"id":7,"image_url":"https://i.imgur.com/zBi6GL3.jpg","status_category":"nepali images"},{"id":6,"image_url":"https://i.imgur.com/hjMbIxR.jpg","status_category":"nepali images"},{"id":5,"image_url":"https://i.imgur.com/uMeqV2Q.jpg","status_category":"nepali images"},{"id":4,"image_url":"https://i.imgur.com/hQKca7f.png","status_category":"nepali images"},{"id":3,"image_url":"https://i.imgur.com/wAlKg3i.png","status_category":"nepali images"},{"id":2,"image_url":"https://i.imgur.com/PxkUlW4.png","status_category":"nepali images"},{"id":1,"image_url":"https://i.imgur.com/GRFt3VW.jpg","status_category":"nepali images"}]
+[
+    {
+        "id": 42,
+        "image_url": "https://i.imgur.com/1w9k4V4.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 41,
+        "image_url": "https://i.imgur.com/j8kwP2M.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 40,
+        "image_url": "https://i.imgur.com/rf2tkJc.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 39,
+        "image_url": "https://i.imgur.com/ibi741a.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 38,
+        "image_url": "https://i.imgur.com/Lq6uQpF.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 37,
+        "image_url": "https://i.imgur.com/EthT1QO.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 36,
+        "image_url": "https://i.imgur.com/F6zaoxC.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 35,
+        "image_url": "https://i.imgur.com/XoiMvC3.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 34,
+        "image_url": "https://i.imgur.com/YauGdok.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 33,
+        "image_url": "https://i.imgur.com/7CH01Wb.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 32,
+        "image_url": "https://i.imgur.com/3R6UISS.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 31,
+        "image_url": "https://i.imgur.com/XlXwE8m.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 30,
+        "image_url": "https://i.imgur.com/UW2fkNh.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 29,
+        "image_url": "https://i.imgur.com/PKvDj2K.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 28,
+        "image_url": "https://i.imgur.com/yQyKZ29.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 27,
+        "image_url": "https://i.imgur.com/HgY96LA.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 26,
+        "image_url": "https://i.imgur.com/PcSPQuP.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 25,
+        "image_url": "https://i.imgur.com/hjfyumP.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 23,
+        "image_url": "https://i.imgur.com/hpLZdeP.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 22,
+        "image_url": "https://i.imgur.com/oqgxqg3.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 21,
+        "image_url": "https://i.imgur.com/DCGF5A0.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 20,
+        "image_url": "https://i.imgur.com/74fi1X9.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 19,
+        "image_url": "https://i.imgur.com/wb7tgUN.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 18,
+        "image_url": "https://i.imgur.com/vhYm0M1.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 17,
+        "image_url": "https://i.imgur.com/CBSwzBo.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 16,
+        "image_url": "https://i.imgur.com/vY4hUrR.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 15,
+        "image_url": "https://i.imgur.com/g5rTyY7.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 14,
+        "image_url": "https://i.imgur.com/elgfPTS.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 13,
+        "image_url": "https://i.imgur.com/YC9FeyH.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 12,
+        "image_url": "https://i.imgur.com/i9GfSwl.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 11,
+        "image_url": "https://i.imgur.com/7gRw0yr.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 10,
+        "image_url": "https://i.imgur.com/v9vvWFI.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 9,
+        "image_url": "https://i.imgur.com/8VJ0xBc.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 8,
+        "image_url": "https://i.imgur.com/h26jiXU.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 7,
+        "image_url": "https://i.imgur.com/zBi6GL3.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 6,
+        "image_url": "https://i.imgur.com/hjMbIxR.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 5,
+        "image_url": "https://i.imgur.com/uMeqV2Q.jpg",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 4,
+        "image_url": "https://i.imgur.com/hQKca7f.png",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 3,
+        "image_url": "https://i.imgur.com/wAlKg3i.png",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 2,
+        "image_url": "https://i.imgur.com/PxkUlW4.png",
+        "status_category": "nepali images"
+    },
+    {
+        "id": 1,
+        "image_url": "https://i.imgur.com/GRFt3VW.jpg",
+        "status_category": "nepali images"
+    }
+]
